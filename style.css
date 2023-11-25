@@ -191,3 +191,55 @@ span{
 .box-all-content p{
     color: #007185;
 }
+
+
+.upinside{
+    margin-top: 15px;
+    height: 125px;
+    width: 90%;
+    background-color: white;
+    border: 1px solid rgba(156, 143, 143, 0.742);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+/**  footer **/
+
+footer{
+    margin-top: 15px;
+}
+.foot-panel1{
+    background-color: #37475a;
+    height: 50px;
+    color: white;
+    font-size: 0.85rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+ul{
+    margin-top: 30px;
+}
+ul p{
+    font-weight: 100;
+}
+
+ul a{
+    display: block;
+    color: #dddd;
+    font-size: 0.85rem;
+    margin-top: 10px;
+}
+
